@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Afrin Shaik</h1>
 <h3 align="center">A passionate Frontend Developer | Open to Work 🚀</h3>
 
 <p align="center">
@@ -46,16 +46,8 @@
 ---
 
 ### 📫 How to Reach Me  
-📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [your-linkedin](www.linkedin.com/in/afrinshaik20020627) )  
-
----
-
-### ☕ Support Me  
-If you like my work, you can support me:  
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>  
+📧 **Email:** shaikafrin750@gmail.com  
+🔗 **LinkedIn:**(https://www.linkedin.com/in/afrinshaik20020627/)  
 
 ---
 
@@ -72,4 +64,3 @@ If you like my work, you can support me:
 ---
 
 💡 **Let's connect and build something amazing together!** 🚀
-
