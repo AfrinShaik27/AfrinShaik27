@@ -47,8 +47,7 @@
 
 ### 📫 How to Reach Me  
 📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [your-linkedin](https://linkedin.com/in/yourprofile)  
-🐦 **Twitter:** [@yourtwitter](https://twitter.com/yourhandle)  
+🔗 **LinkedIn:** [your-linkedin](www.linkedin.com/in/afrinshaik20020627) )  
 
 ---
 
